@@ -5,7 +5,6 @@ Here's a guide on how to setup, and use the project
  ## Dependencies
 
 - Python >= 3.7
-- Discord.py
 - Aiohttp
 - xbox-webapi-python
 
