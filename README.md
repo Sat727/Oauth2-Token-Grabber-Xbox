@@ -13,7 +13,7 @@ Here's a guide on how to setup, and use the bot
 
 Authentication
 
-This project uses Nitrado, Discord, and Xbox API. 
+This project uses Xbox API. 
 
 ## Xbox API
 
