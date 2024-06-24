@@ -1,8 +1,6 @@
 # Oauth2-Token-Grabber-Xbox
 
-I initially started this project for a client who ended up cancelling the commission after completion.
-
-Here's a guide on how to setup, and use the bot
+Here's a guide on how to setup, and use the project
 
  ## Dependencies
 
